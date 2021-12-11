@@ -1,0 +1,7 @@
+D:\ANNA\USB\с#\ChatWithServer\ChatWithServer\bin\Debug\ChatWithServer.exe.config
+D:\ANNA\USB\с#\ChatWithServer\ChatWithServer\bin\Debug\ChatWithServer.exe
+D:\ANNA\USB\с#\ChatWithServer\ChatWithServer\bin\Debug\ChatWithServer.pdb
+D:\ANNA\USB\с#\ChatWithServer\ChatWithServer\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\ANNA\USB\с#\ChatWithServer\ChatWithServer\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\ANNA\USB\с#\ChatWithServer\ChatWithServer\obj\Debug\ChatWithServer.exe
+D:\ANNA\USB\с#\ChatWithServer\ChatWithServer\obj\Debug\ChatWithServer.pdb
